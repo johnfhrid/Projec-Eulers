@@ -25,9 +25,12 @@ int main() {
     }
     printf("%d\n" ,sum);
 
-    if (sum == num) {
+    if (sum == num)
+    {
         printf("is a curious number.");
-    } else {
+    } 
+    else
+    {
         printf("is not a curious number.");
     }
 
